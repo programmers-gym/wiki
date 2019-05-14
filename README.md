@@ -2,3 +2,8 @@
 - 大家在这个 repo 里提 issue ，留下 github 账号，方便我拉入 org
 - 一个人建立一个 repo , repo 取名大概是 codeKata-username 的格式
 - 自己的 repo 里每个分支就是自己做的一道练习题，分支名就是题目名字，readme 里应该包括题目的介绍或者链接
+- 或者也可以在这里提交 PR ，添上你的项目地址
+
+## 项目地址
+- https://github.com/programmers-gym/kata-wanyouzhu
+- https://github.com/programmers-gym/codeKata-demongodYY
